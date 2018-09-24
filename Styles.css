@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,900');
+
+
+body {
+	font-family: 'Chivo', sans-serif;
+	background-color: #FFE6F1;
+	font-size: 1.2em;
+	margin-top: 2em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	margin-left: 2em;
+	padding: 1px;
+	}
+#title {
+}
+a {
+	color: black;
+	text-decoration: none;
+	border-bottom: 1px dotted black;
+}
+#popuptext {
+	width: 100%;
+	position: absolute;
+	color: black;
+	padding-top: 64px;
+	}
+#box {
+	position:relative;
+}
+.smaller {
+	font-size: small;
+	font-style: italic;
+	}
+
+.thumb {
+	border-bottom: 1px dotted black;
+	color: black;
+	text-decoration:none;
+}
+#thumbwrap {
+	position:relative;
+	margin: 0 auto;
+	background-color:pink;
+}
+.thumb img { 
+	margin: 0 auto;
+	width: 50%;
+	height:400px;
+	
+}
+.thumb span {
+	position: absolute;
+	visibility: hidden;
+}
+.thumb:hover, .thumb:hover span { 
+	visibility:visible;
+	z-index:1;
+}
+span {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 30px;
+	}

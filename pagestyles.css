@@ -1,0 +1,139 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,900');
+
+
+body {
+	font-family: 'Chivo', sans-serif;
+	background-color: #FFE6F1;
+	/*FFE6F1*/
+	font-size: 1.2em;
+	margin-top: 2em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	margin-left: 2em;
+	padding: 1px;
+	}
+#title {
+	}
+a {
+	color: black;
+	text-decoration: none;
+}
+#line {
+	margin-top: -63px;
+	margin-bottom: -16px;
+	}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+	display: inline;
+	padding-right: 8%;
+}
+#nav {
+	margin-bottom: 9%;
+	}
+.videocontainer {
+	width: 100%;
+	margin: auto;
+	max-width: 740px;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 11%;
+	}
+.pic {
+	text-align:center;
+	width: 70%;
+    display:block;
+    margin:auto;
+	max-width: 740px;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 11%;
+	}
+.attachedpic {
+	text-align: center;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	max-width: 740px;
+	text-align: center;
+	padding-bottom: 11%;
+	margin-top: -10%;
+	display: block;
+	font-size:0.7em;
+	}
+a.otherlink {
+	text-decoration: underline;
+}
+#promovideo {
+	max-width:400px;
+	}
+.smallerpic {
+	text-align: center;
+	width: 70%;
+	display: block;
+	margin: auto;
+	max-width: 323px;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 11%;
+	}
+.smallerpicbeside {
+	width: 70%;
+	max-width: 323px;
+	padding-top: 4%;
+	padding-bottom: 11%;
+	}
+.sidebyside {
+	text-align:center;
+	}
+.attachedpicsmaller {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	max-width: 323px;
+	text-align: center;
+	padding-bottom: 11%;
+	margin-top: -10%;
+	display: block;
+	font-size:0.7em;
+}
+.caption {
+	font-size:0.7em;
+	}
+.container {
+	text-align:center;
+	}
+.screencap {
+	display: block;
+	margin: auto;
+	max-width: 800px;
+	width: 100%;
+	}
+.container2 {
+	text-align: center;
+	margin-top: 15%;
+	}
+#series {
+	text-align:center;
+	}
+.gif {
+	width: 206px;
+	display: block;
+	margin: auto;
+	}
+.gifbig {
+	width: 412px;
+	display:block; 
+	margin:auto;
+}
+

@@ -5,7 +5,7 @@
 
 body {
 	font-family: 'Chivo', sans-serif;
-	background-color: #FFE6F1;
+	background-color: #ffddec;
 	font-size: 1.2em;
 	margin-top: 2em;
 	margin-right: 2em;
@@ -42,7 +42,6 @@ a {
 #thumbwrap {
 	position:relative;
 	margin: 0 auto;
-	background-color:pink;
 }
 .thumb img { 
 	margin: 0 auto;
